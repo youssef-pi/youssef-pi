@@ -106,7 +106,7 @@ je monte des environnements, je configure, je durcis, et je documente.
 - Serveur **DHCP** (attribution IP), **DNS** (résolution), serveur web
 - Validation communication inter‑réseaux
 - Tech : `Cisco` `Switching` `Routing` `DHCP` `DNS`
-- 🔗 Lien : {URL_CISCO_LAB}
+- 🔗 Lien : [{URL_CISCO_LAB}](https://github.com/youssef-pi/cisco-network-lab)
 
 ### 5) 🧪 CyberLab — Environnement d’analyse réseau (VMware, Kali, Metasploitable2)
 - Lab virtuel isolé pour analyser réseau + machine vulnérable
