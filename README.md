@@ -99,7 +99,7 @@ je monte des environnements, je configure, je durcis, et je documente.
 - GPO : règles de sécurité (plages horaires, déconnexion auto, etc.)
 - Vérification DNS, politiques appliquées, contrôle centralisé
 - Tech : `Windows Server` `AD DS` `DNS` `GPO`
-- 🔗 Lien : {URL_AD_LAB}
+- 🔗 Lien : [{URL_AD_LAB}](https://github.com/youssef-pi/active-directory-lab)
 
 ### 4) 🌐 Cisco Packet Tracer — Infrastructure réseau (Switching, Routage, DHCP, DNS)
 - Réseau multi‑LAN avec switchs/routeur Cisco
