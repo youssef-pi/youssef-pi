@@ -91,7 +91,7 @@ je monte des environnements, je configure, je durcis, et je documente.
 - Pare-feu **UFW** + **Fail2ban** contre tentatives répétées
 - Tests SCP/SFTP, alias de connexion, tests d’accès non autorisé + analyse logs
 - Tech : `Linux` `OpenSSH` `UFW` `Fail2ban`
-- 🔗 Lien : {URL_SSH_LAB}
+- 🔗 Lien : [{URL_SSH_LAB}](https://github.com/youssef-pi/ssh-hardening-lab)
 
 ### 3) 🪟 Windows Lab — Déploiement d’un Active Directory (AD DS, DNS, GPO)
 - Mise en place d’un contrôleur de domaine (**AD DS** + **DNS**)
