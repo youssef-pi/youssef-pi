@@ -123,10 +123,6 @@ je monte des environnements, je configure, je durcis, et je documente.
 
 ---
 
-## 📊 Stats GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=youssef-pi&show_icons=true&theme=tokyonight&cache_seconds=86400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-pi&layout=compact&theme=tokyonight&langs_count=8)
----
 
 ## 🤝 Contact
 - LinkedIn : https://linkedin.com/in/youssef-mansouri-a8189a265
