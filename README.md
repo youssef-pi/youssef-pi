@@ -74,8 +74,6 @@ je monte des environnements, je configure, je durcis, et je documente.
 
 ## ⭐ Projets (portfolio)
 
-> Remplace les liens `{...}` par les liens exacts de tes repos/dossiers GitHub (ou dis-moi où sont tes projets et je te mets les bons liens).
-
 ### 1) 🧰 GLPI — Déploiement et gestion d’une plateforme ITSM
 - Installation complète de **GLPI** sur Linux avec **Apache, MySQL, phpMyAdmin**
 - Configuration : base de données, permissions, interface web
