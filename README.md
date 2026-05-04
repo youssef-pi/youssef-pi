@@ -1,7 +1,7 @@
 <h2 align="center">🚀 RECHERCHE STAGE — À PARTIR DU 1er JUILLET</h2>
 <p align="center">🎯 Support IT · Helpdesk · Systèmes & Réseaux · Parc informatique · Poste de travail</p>
 <p align="center">
-  <img src="assets/photo.jpg" width="170" alt="Photo de Youssef Mansouri" />
+  <img src="assets/photo pro.jpg" width="170" alt="Photo de Youssef Mansouri" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=IT+Support+%7C+Helpdesk+Technician;Systems+%26+Network+Assistant;Windows+Server+%7C+Linux+%7C+Active+Directory;Cisco+%7C+Wireshark+%7C+Nmap;Always+Learning+Always+Building" />
