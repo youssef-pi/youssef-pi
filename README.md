@@ -84,7 +84,7 @@ je monte des environnements, je configure, je durcis, et je documente.
 - Inventaire structuré avec types d’actifs personnalisés + rôles/permissions (organisation IT simulée)
 - Reporting : rapports incidents & actifs
 - Tech : `Linux` `Apache` `MySQL` `GLPI`
-- 🔗 Lien : {URL_GLPI}
+- 🔗 Lien : [{URL_GLPI}](https://github.com/youssef-pi/glpi-itsm-lab)
 
 ### 2) 🔐 SecureShell Lab — Mise en place et durcissement d’un serveur SSH
 - Auth par clés RSA, désactivation du mot de passe, changement de port, restriction utilisateurs
